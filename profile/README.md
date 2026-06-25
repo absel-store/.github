@@ -1,9 +1,8 @@
 # Welcome
 
-This is a repository for supplemental materials of papers included in [ABSEL conference proceedings (BKL)](https://absel-ojs-ttu.tdl.org/absel/index) and the [Journal of Experiential Learning in Business](https://jelb.org/). Materials included may be simulations, games, experiential exercises, teaching assignments, spreadsheets, datasets, extended narratives, and the like. The repository is dynamic, not archival, so the materials found here may be upgraded versions of those discussed in the proceedings and journal.
+This is a repository for supplemental materials of papers included in [ABSEL conference proceedings (BKL)](https://absel-ojs-ttu.tdl.org/absel/index) and the [Journal of Experiential Learning in Business](https://jelb.org/). Materials included can be simulations, games, experiential exercises, teaching assignments, spreadsheets, datasets, photographs, slides, extended narratives, and the like. The repository is dynamic, so the materials found here may be upgraded versions of those discussed in the proceedings and journal.
 
 GitHub has [interactive courses for learning about its features](https://learn.github.com/skills). Of these, [Introduction to GitHub](https://github.com/skills/introduction-to-github) should be best for beginners.
-
 <!--
 ## Hi there 👋
 
