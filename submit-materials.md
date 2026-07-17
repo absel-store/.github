@@ -1,5 +1,5 @@
 # Submitting Digital Materials for the ABSEL Store
-## Draft by Precha Thavikulwat, 15 July 2026
+## Draft by Precha Thavikulwat, 16 July 2026
 
 The Association for Business Simulation and Experiential Learning (ABSEL) keeps digital materials associated with its [conference proceedings (BKL)](https://absel-ojs-ttu.tdl.org/absel/index) and [journal (JELB)](https://jelb.org/) in the [ABSEL Store](https://github.com/absel-store). Each set of related materials is kept in its own [GitHub](https://github.com/) repository. To facilitate the review and placement of items into the ABSEL Store, applicants with materials for the ABSEL Store must have an account on GitHub, which is free at the basic level.
 
