@@ -1,9 +1,17 @@
 # Welcome
 
-This is a repository for supplemental materials of papers included in [ABSEL conference proceedings (BKL)](https://absel-ojs-ttu.tdl.org/absel/index) and the [Journal of Experiential Learning in Business](https://jelb.org/). Materials included can be simulations, games, experiential exercises, teaching assignments, spreadsheets, datasets, photographs, slides, extended narratives, and the like. The repository is dynamic, so the materials found here may be upgraded versions of those discussed in the proceedings and journal.
+This site contains discussion boards, wiki pages, and repositories of documents and associated contents. Each discussion board is headed by a statement about which authorized persons can comment, each wiki page has text that authorized persons can edit, and each repository has content about which authorized persons can propose changes. Essentially, discussion boards are for comments, wiki pages are for making immediate changes, and repositories are for proposing changes.
+
+To view a [discussion board](https://github.com/orgs/absel-store/discussions), click the desired topic on the right sidebar. To view a wiki page, click [ABSEL wiki](https://github.com/absel-store/.github/wiki). When the wiki Home page appears, click the desired item on the right sidebar. To view a repository, click the Repositories menu item above this area and click the name of the desired repository.
+
+Repositories contain organizational governance documents and supplemental materials of papers included in [ABSEL conference proceedings (BKL)](https://absel-ojs-ttu.tdl.org/absel/index) and the [Journal of Experiential Learning in Business](https://jelb.org/). Supplemental materials included can be simulations, games, experiential exercises, teaching assignments, spreadsheets, datasets, photographs, slides, extended narratives, and the like.
 
 GitHub has [interactive courses for learning about its features](https://learn.github.com/skills). Of these, [Introduction to GitHub](https://github.com/skills/introduction-to-github) should be best for beginners.
 <!--
+This is a repository for supplemental materials of papers included in [ABSEL conference proceedings (BKL)](https://absel-ojs-ttu.tdl.org/absel/index) and the [Journal of Experiential Learning in Business](https://jelb.org/). Materials included can be simulations, games, experiential exercises, teaching assignments, spreadsheets, datasets, photographs, slides, extended narratives, and the like. The repository is dynamic, so the materials found here may be upgraded versions of those discussed in the proceedings and journal.
+
+GitHub has [interactive courses for learning about its features](https://learn.github.com/skills). Of these, [Introduction to GitHub](https://github.com/skills/introduction-to-github) should be best for beginners.
+
 ## Hi there 👋
 
 **Here are some ideas to get you started:**
