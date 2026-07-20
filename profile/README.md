@@ -1,6 +1,6 @@
 # Welcome
 
-This site contains discussion boards, wiki pages, and repositories of documents and associated contents. Each discussion board is headed by a statement about which authorized persons can comment, each wiki page has text that authorized persons can edit, and each repository has content about which authorized persons can propose changes. Essentially, discussion boards are for comments, wiki pages are for making immediate changes, and repositories are for proposing changes.
+This site uses three tools for collective efforts, namely, discussion boards, each soliciting comments on a topic; wiki pages, each presenting text for continuous updating; and repositories, each containing content available for changing through a step-by-step process of proposing, approving, and executing.
 
 To view a [discussion board](https://github.com/orgs/absel-store/discussions), click the desired topic on the right sidebar. To view a wiki page, click [ABSEL wiki](https://github.com/absel-store/.github/wiki). When the wiki Home page appears, click the desired item on the right sidebar. To view a repository, click the Repositories menu item above this area and click the name of the desired repository.
 
@@ -8,6 +8,8 @@ Repositories contain organizational governance documents and supplemental materi
 
 GitHub has [interactive courses for learning about its features](https://learn.github.com/skills). Of these, [Introduction to GitHub](https://github.com/skills/introduction-to-github) should be best for beginners.
 <!--
+This site contains discussion boards, wiki pages, and repositories of documents and associated contents. Each discussion board is headed by a statement about which authorized persons can comment, each wiki page has text that authorized persons can edit, and each repository has content about which authorized persons can propose changes. Essentially, discussion boards are for comments, wiki pages are for making immediate changes, and repositories are for proposing changes.
+
 This is a repository for supplemental materials of papers included in [ABSEL conference proceedings (BKL)](https://absel-ojs-ttu.tdl.org/absel/index) and the [Journal of Experiential Learning in Business](https://jelb.org/). Materials included can be simulations, games, experiential exercises, teaching assignments, spreadsheets, datasets, photographs, slides, extended narratives, and the like. The repository is dynamic, so the materials found here may be upgraded versions of those discussed in the proceedings and journal.
 
 GitHub has [interactive courses for learning about its features](https://learn.github.com/skills). Of these, [Introduction to GitHub](https://github.com/skills/introduction-to-github) should be best for beginners.
