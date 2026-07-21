@@ -1,6 +1,6 @@
 # Welcome
 
-This site uses three tools for collective efforts, namely, discussion boards, each soliciting comments on a topic; wiki pages, each presenting text for continuous updating; and repositories, each containing content available for changing through a step-by-step process of proposing, approving, and executing.
+This site stores ABSEL documents and related digital materials. The site also supports the work of ABSEL members through discussion boards, each soliciting comments on a topic; wiki pages, each presenting text for continuous updating; and repositories, each containing content available for changing through a step-by-step process of proposing, approving, and merging.
 
 To view a [discussion board](https://github.com/orgs/absel-store/discussions), click the desired topic on the right sidebar. To view a wiki page, click [ABSEL wiki](https://github.com/absel-store/.github/wiki). When the wiki Home page appears, click the desired item on the right sidebar. To view a repository, click the Repositories menu item above this area and click the name of the desired repository.
 
