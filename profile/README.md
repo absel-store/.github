@@ -7,6 +7,10 @@ To view a [discussion board](https://github.com/orgs/absel-store/discussions), c
 Repositories contain organizational governance documents and supplemental materials of papers included in [ABSEL conference proceedings (BKL)](https://absel-ojs-ttu.tdl.org/absel/index) and the [Journal of Experiential Learning in Business](https://jelb.org/). Supplemental materials included can be simulations, games, experiential exercises, teaching assignments, spreadsheets, datasets, photographs, slides, extended narratives, and the like.
 
 <!--
+GitHub has many features that support storing and sharing, [possibly more than any other platform with similar functions](https://openrealnews.com/reviews/github?utm_source=chatgpt.com). The platform is [free at its current basic level](https://github.com/pricing), with special deals for [nonprofits](https://github.com/solutions/industry/nonprofits) and [educators](https://github.com/education).
+
+GitHub also has [interactive courses for learning about its features](https://learn.github.com/skills). Of these, [Introduction to GitHub](https://github.com/skills/introduction-to-github) should be best for beginners.
+
 This site contains discussion boards, wiki pages, and repositories of documents and associated contents. Each discussion board is headed by a statement about which authorized persons can comment, each wiki page has text that authorized persons can edit, and each repository has content about which authorized persons can propose changes. Essentially, discussion boards are for comments, wiki pages are for making immediate changes, and repositories are for proposing changes.
 
 This is a repository for supplemental materials of papers included in [ABSEL conference proceedings (BKL)](https://absel-ojs-ttu.tdl.org/absel/index) and the [Journal of Experiential Learning in Business](https://jelb.org/). Materials included can be simulations, games, experiential exercises, teaching assignments, spreadsheets, datasets, photographs, slides, extended narratives, and the like. The repository is dynamic, so the materials found here may be upgraded versions of those discussed in the proceedings and journal.
