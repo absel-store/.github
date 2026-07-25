@@ -1,6 +1,6 @@
 # How to Request Changes to Repository Contents
 
-Anyone can view the contents of a public repository, but only those logged in to a GitHub account can submit a _pull request_, that is, a formal request to change the contents of a repository that is sent to collaborators. Moreover, the pull request can be made only after the requester has _committed_ the requested changes to a _branch_. The change requested can include the addition of files or edits to a file.
+Anyone can view the contents of a public repository, but only those logged in to a GitHub account can _fork_, that is, connect their GitHub account, to the target repository and submit a _pull request_, that is, a structured request, to change the contents of the repository. Moreover, the pull request can be made only after the requester has _committed_ the requested changes to an offshoot _branch_ of the _main branch_ of the repository. The change requested can include the addition of files or edits to a file.
 
 The steps to requesting the addition of files are the following:  
 
