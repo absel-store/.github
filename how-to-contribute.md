@@ -18,6 +18,3 @@ GitHub tracks contributions, which means that contributors must first be logged 
   5. Send a *pull request* to collaborators. Essentially, collaborators are asked to pull down the offshoot branch for examination.
 
 Upon approval of the requested changes, the offshoot branch is _merged_ to the _main_ branch, either automatically following a rule or at the discretion of an assignee.  
-
-7/21/2026
-
