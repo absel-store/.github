@@ -1,10 +1,10 @@
 # How to Request Changes to Repository Contents
 
-Anyone can view the contents of a public repository, but only those logged in to a GitHub account can formally initiate a process to change its contents. The process proceeds from creating a _fork_, then a _branch_, followed by a _pull request_. A _fork_ connects a GitHub account to the targeted repository, a _branch_ packages the requested change, and a _pull request_ asks collaborators to review, approve, and act on the requested change.  
+Anyone can view the contents of a public repository, but only those logged in to a GitHub account can initiate a structured process to change its contents that proceeds from creating a _fork_, then a _branch_, followed by a _pull request_. A _fork_ connects a GitHub account to the targeted repository, a _branch_ packages the requested change, and a _pull request_ asks collaborators to review, approve, and act on the requested change.  
 
-The fork needs to be created only once. Connection established, the same fork is used for subsequent requests. Moreover, because a fork is a connection, the first fork is automatically created when the repository is created. Deleting a repository effectively deletes the connection, not the contents of the repository. The repository becomes inaccessible only when all forks to the repository are deleted.
+The fork needs to be created only once. Connection established, the same fork is used for subsequent requests. Moreover, because a fork is a connection, the first fork is automatically created when the repository is created. Deleting a repository deletes the connection, not the contents of the repository.
 
-The steps to requesting the addition of files are the following:  
+The steps to requesting the adding of files to a repository are the following:  
 
 1. From the [ABSEL Store](https://github.com/abselstore), click the **Repositories** menu item and click to select the repository targeted for the change. When the repository page comes up, to the immediate left of the **Code** button an **Add file** or **+** button will appear for those allowed to add files to the repository. Click the button and select either _Create new file_ or _Upload files_. if the **Fork this repository** button appears, click it. If a please-try-again message appears on the lower left of the page, a detour is necessary. To detour, click the browser's back icon to return to the repository's page, then click the **Fork** button on the row of buttons above the **Code** button to bring up the **Create a new fork** page. Accepting defaults, click the **Create fork** button on the page. Fork successful, the repository page reappears. Click **Add file**, or **+**, again.
 
