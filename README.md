@@ -4,6 +4,6 @@ GitHub, [free at the basic level](https://github.com/pricing), with [special ser
 
 ## Table of Contents
 
-1. how-to-contribute.md: General nstructions on how to contribute to wikis, discussions, and contents of repositories.
+1. how-to-contribute.md: General instructions on how to contribute to wikis, discussions, and contents of repositories.
 2. request-changes.md: Detailed instructions on how to request changes to the contents of repositories.
-3. submit-materials.md: Detailed instructions on how to submit materials for the ABSEL Store.
+3. submit-materials.md: Detailed instructions on how to submit materials.
