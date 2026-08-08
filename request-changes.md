@@ -2,6 +2,28 @@
 
 Anyone can view the contents of a public repository, but only those logged in to a GitHub account can initiate a structured process to change its contents that proceeds from creating a _fork_, then a _branch_, followed by a _pull request_. A _fork_ connects a GitHub account to the targeted repository, a _branch_ packages the requested change, and a _pull request_ asks collaborators to review, approve, and act on the requested change.  
 
+The repository's creator has a _primary_ connection to the repository, so the creator does not need a fork to change the repository's contents. Others wishing to do likewise must create a fork to the repository before requesting the change. The fork needs to be created only once. Connection established, the same fork is used for subsequent requests.
+
+The steps to requesting the adding of files to a repository are the following:  
+
+1. From the [ABSEL Store](https://github.com/abselstore), click the **Repositories** menu item and click to select the repository targeted for the change. When the repository page comes up, to the immediate left of the **Code** button an **Add file** or **+** button will appear for those allowed to add files to the repository.
+
+2. If requesting change to a repository created by someone else, click the selector of the **Fork** button on the row of buttons above the **Code** button to choose between using a previously created fork or **Create a new fork** followed by clicking the **Create fork** button on the page that appears. Choice made, the advisory message, _forked from..._ appears leftmost immediately below the **Fork** button.
+
+3. Click the **Add file** or **+** button and select either _Create new file_ or _Upload files_. Follow the instructions that appear.
+
+4. GitHub works best with files in [Markdown format](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), a formatting language for text that is easy to learn, to type, and to read. Moreover, files in Microsoft's Word (docx) format can be automatically converted to Markdown by free converters, such as [word2markdown](https://word2md.com/). Thus, when entering a name for a new file, specifying the _md_ extension (for example, `myfile.md`) causes GitHub to treat the file as a Markdown-formatted file. In any case, whether the file is created or uploaded, click the **Commit changes** button, then the **Propose changes** button, then the **Create pull request** button, and then the **Create pull request** button again.
+
+8.  In response, the conditions for reviewing and merging, that is, executing the requested action, are described, and an edit box is presented for adding a comment to accompany the pull request. The last action sends a message to collaborators that they should pull down the branch containing information about the proposed changes, review the changes, and submit a review. The changes proposed can be acted upon either automatically when the conditions are satisfied, or at the discretion of those assigned to act on pull requests. The action may be to dismiss the request or to _merge_ the branch, after which the pull request is closed. _Merge_ changes the _main_, the repository's contents.
+
+The process of proposing edits to a file begins with Step 1 above, except that when the repository page comes up, the file to be changed should be selected by a mouse click of its name from the list of files, to display the content of the selected file, followed by clicking the pencil icon on the upper right end of the menu above the content-display area. Then with the **Edit** tab selected, use the computer's keyboard to edit the content. If the name of the file ends with the _md_ extension, the file is Markdown-formatted, and a Markdown icon appears on the bottom right of the edit area. Click the Markdown icon for instructions on writing Markdown-formatted text.  
+
+Proceed with the proposal by clicking the **Commit changes** button, then the **Propose changes** button, then the **Create pull request** button, and then either click the **Create pull request** button again or click the selector on the right end of the button to select the option to **Create draft pull request** instead. The draft pull request is handy when the proposal might be re-edited, perhaps repeatedly, before the proposer is ready to submit the proposal for review. The response and subsequent actions are as described in Step 5 above.  
+<!--
+# How to Request Changes to Repository Contents
+
+Anyone can view the contents of a public repository, but only those logged in to a GitHub account can initiate a structured process to change its contents that proceeds from creating a _fork_, then a _branch_, followed by a _pull request_. A _fork_ connects a GitHub account to the targeted repository, a _branch_ packages the requested change, and a _pull request_ asks collaborators to review, approve, and act on the requested change.  
+
 The fork needs to be created only once. Connection established, the same fork is used for subsequent requests. Moreover, because a fork is a connection, the first fork is automatically created when the repository is created. Deleting a repository deletes the connection, not the contents of the repository.
 
 The steps to requesting the adding of files to a repository are the following:  
@@ -15,7 +37,7 @@ The steps to requesting the adding of files to a repository are the following:
 The process of proposing edits to a file begins with Step 1 above, except that when the repository page comes up, the file to be changed should be selected by a mouse click of its name from the list of files, to display the content of the selected file, followed by clicking the pencil icon on the upper right end of the menu above the content-display area. Then with the **Edit** tab selected, use the computer's keyboard to edit the content. If the name of the file ends with the _md_ extension, the file is Markdown-formatted, and a Markdown icon appears on the bottom right of the edit area. Click the Markdown icon for instructions on writing Markdown-formatted text.  
 
 Proceed with the proposal by clicking the **Commit changes** button, then the **Propose changes** button, then the **Create pull request** button, and then either click the **Create pull request** button again or click the selector on the right end of the button to select the option to **Create draft pull request** instead. The draft pull request is handy when the proposal might be re-edited, perhaps repeatedly, before the proposer is ready to submit the proposal for review. The response and subsequent actions are as described in Step 3 above.  
-<!--
+
 # How to Request Changes to Repository Contents
 
 Anyone can view the contents of a public repository, but only those logged in to a GitHub account can formally initiate a process to change its contents. The process proceeds from creating a _fork_, then a _branch_, followed by a _pull request_. A fork connects a GitHub account to the targeted repository, a branch packages the requested change, and a pull request asks collaborators to review, approve, and act on the requested change. 
